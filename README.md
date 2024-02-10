@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<img src="![image](https://github.com/Parthiban-sekar/Parthiban-sekar/assets/145418564/18b8cdd3-7c5c-47f1-8e6b-7c5e8f1b8955)
+" width="100%" />
 <h1 align="center">Hi 👋, I'm Parthiban</h1>
 - 🌱 I’m currently learning **Mern Stack Development**
 
