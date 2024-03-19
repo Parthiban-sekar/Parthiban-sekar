@@ -1,4 +1,4 @@
-<img src="![image](https://github.com/Parthiban-sekar/Parthiban-sekar/assets/145418564/18b8cdd3-7c5c-47f1-8e6b-7c5e8f1b8955)
+<img src="[https://github.com/Parthiban-sekar/Parthiban-sekar/assets/145418564/18b8cdd3-7c5c-47f1-8e6b-7c5e8f1b8955](https://wallpaperaccess.com/full/8901660.jpg)
 " width="100%" />
 <h1 align="center">Hi 👋, I'm Parthiban</h1>
 - 🌱 I’m currently learning **Mern Stack Development**
